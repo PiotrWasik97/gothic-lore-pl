@@ -63,16 +63,16 @@ gothic-lore.pl/
 ## Screenshoty
 
 ### Strona główna
-![Strona główna](screenshots/home.png)
+![Strona główna](home.png)
 
 ### Podstrona Postaci
-![Postacie Gothic I](screenshots/postacie.png)
+![Postacie Gothic I](postacie.png)
 
 ### Karta postaci
-![Przykładowa karta postaci](screenshots/postac-diego.png)
+![Przykładowa karta postaci](postac-diego.png)
 
 ### Widok mobilny
-![Widok mobilny](screenshots/mobile.png)
+![Widok mobilny](mobile.png)
 
 ---
 
