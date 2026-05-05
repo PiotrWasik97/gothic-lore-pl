@@ -1,6 +1,6 @@
 # Gothic Lore — Nieoficjalne Kompendium Gothic I i Gothic II Noc Kruka
 
-![Gothic Lore Banner](screenshots/banner.png)
+![Gothic Lore Banner](banner.png)
 
 > Fanowskie kompendium wiedzy o świecie wykreowanym przez Piranha Bytes. Stworzone przez fanów, dla fanów.
 
